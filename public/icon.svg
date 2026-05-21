@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <!-- Background rounded square -->
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- Package box - top face -->
+  <path d="M256 120L140 180v4l116 60 116-60v-4L256 120z" fill="rgba(255,255,255,0.95)"/>
+  <!-- Package box - left face -->
+  <path d="M140 184v120l116 60V244L140 184z" fill="rgba(255,255,255,0.7)"/>
+  <!-- Package box - right face -->
+  <path d="M372 184v120l-116 60V244l116-60z" fill="rgba(255,255,255,0.5)"/>
+  <!-- Vertical strap on left face -->
+  <path d="M200 184l-60 32v4l60-32v-4z" fill="rgba(255,255,255,0.3)"/>
+  <!-- Vertical strap on right face -->
+  <path d="M312 184l60 32v4l-60-32v-4z" fill="rgba(255,255,255,0.2)"/>
+  <!-- Horizontal strap -->
+  <path d="M140 228l116 60 116-60" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="6"/>
+  <!-- Small check mark -->
+  <path d="M230 320l20 20 40-50" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
