@@ -21,6 +21,12 @@ Dark-themed PWA inventory app with barcode scanning, barcode generation, expiry 
 |:-------:|:-----------------:|
 | ![Scanner](proof/04-scanner.png) | ![Barcode](proof/05-barcode-generator.png) |
 
+### 🎬 Demo Video
+
+[![StockFlow Demo](proof/01-dashboard.png)](proof/stockflow-demo.mp4)
+
+> 1-minute walkthrough: Dashboard → Products → AI Analytics → Scanner → Barcode Generator → Categories
+
 ---
 
 ## ✨ Features
@@ -267,4 +273,4 @@ MIT — feel free to use, modify, and distribute.
 
 ---
 
-Built with 🔥 by [Andretukangoprek](https://github.com/amelzloveindra2)
+Built with 🔥 by [renacentil01](https://github.com/renacentil01)
