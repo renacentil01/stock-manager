@@ -9,6 +9,16 @@ Dark-themed PWA inventory app with barcode scanning, barcode generation, expiry 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?logo=tailwindcss)
 ![PWA](https://img.shields.io/badge/PWA-Ready-5a0fc7)
 
+### 🚀 Live Demo
+
+[![Railway](https://img.shields.io/badge/Railway-Deployed-130835?logo=railway)](https://stock-manager-production-6ffa.up.railway.app)
+[![Netlify](https://img.shields.io/badge/Netlify-Deployed-00C7B7?logo=netlify)](https://harmonious-boba-164001.netlify.app)
+
+| Platform | URL | Status |
+|----------|-----|--------|
+| 🚂 Railway | [stock-manager.up.railway.app](https://stock-manager-production-6ffa.up.railway.app) | ✅ Live |
+| 🌐 Netlify | [harmonious-boba-164001.netlify.app](https://harmonious-boba-164001.netlify.app) | ✅ Live |
+
 ---
 
 ## 📸 Screenshots
